@@ -1,6 +1,9 @@
 <?php require "view_begin.php";?>
 
 <h1>Qui a le plus petit zizi?</h1>
+</br><br>
+
+<h2>Ce classement est en "Drag and drop"</h2> 
         <div id="team-members">
             <center><h2>Le Classement de la Semaine</h2></center>
             <article class="team-member">
