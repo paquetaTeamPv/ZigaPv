@@ -1,22 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8"/>
-		<title> Nobel Prizes</title>
-		<link rel="stylesheet" href="Content/css/nobel.css"/>
-	</head>
-	<body>
-		<nav>
-			<ul>
-				<li><a href="?controller=list&action=last"> Last Nobel Prizes</a></li>
-				<li><a href="?controller=set&action=form_add"> Add a Nobel prize</a></li>
-				<!-- <li><a href="?controller=list&action=pagination"> All the Nobel Prizes</a></li> -->
-				<!-- <li><a href="?controller=search"> Search among te Nobel prizes</a></li> -->
-			</ul>
-		</nav>
-
-		<header>
-			<h1><a href="?"> Nobel Prizes </a></h1>
-		</header>
-
-		<main>
+    <head>
+        <meta charset="UTF-8">
+        <title>ZIZI RUBIS</title>
+        <link rel="stylesheet" href="Content/css/style.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link
+            href="https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap"
+            rel="stylesheet"
+        >
+    </head>
+    <body>
+		
